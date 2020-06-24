@@ -1,1 +1,1 @@
-boiler plate for my node js projects
+helper for cucumberjs project to generate and email html report
