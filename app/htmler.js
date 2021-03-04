@@ -1,4 +1,4 @@
-const { generate } = require('@nodebug/cucumber-html-reporter')
+const { generate } = require('cucumber-html-reporter')
 const { log } = require('@nodebug/logger')
 const config = require('@nodebug/config')('emailer')
 const { existsSync } = require('fs')
