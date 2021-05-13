@@ -16,13 +16,16 @@
     "nodemailer": "6.4.10",
     "sanitize-filename": "^1.6.3"
   },
-  "description": "boiler plate for nodejs projects",
+  "description": "script to generate and email the cucumber test report",
   "homepage": "https://github.com/node-bug/emailer#readme",
   "keywords": [
-    "node",
-    "npm",
-    "boiler",
-    "plate"
+    "config",
+    "logger",
+    "cucumber",
+    "html",
+    "gmail",
+    "json",
+    "email"
   ],
   "license": "MPL-2.0",
   "repository": {
